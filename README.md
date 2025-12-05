@@ -8,7 +8,7 @@ It shows:
 - The intersection (names that appear in both sets)
 
 ## How to run it
-1. Open the project in your Java IDE (NetBeans, IntelliJ, Eclipse, or VS Code).
+1. Open the project in your Java IDE.
 2. Compile the `Miller_SLO1.java` file.
 3. Run the program.
 4. The results will print in the console.
